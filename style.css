@@ -1,4 +1,4 @@
-@import url(../basic-styles.css);
+@import url(./basic-styles.css);
     /* display: grid; Виставляє контейнери один під одним */
     /*  display: inline-grid; Виставляє контейнери в ряд */
     .container{
