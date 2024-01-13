@@ -1,3 +1,12 @@
+@import url(./basic-styles.css);
+    /* display: grid; Виставляє контейнери один під одним */
+    /*  display: inline-grid; Виставляє контейнери в ряд */
+    .container{
+  display: grid;
+  /* display: inline-grid; */
+  grid-template-columns: 1fr 2fr 1fr;
+  /* grid-template-rows: 200px 150px 400px; */
+gap: 24px;
 
-
-
+}
+/* ==================================================== */
